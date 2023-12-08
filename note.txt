@@ -1,0 +1,10 @@
+Command shadcn ui
+
+npx shadcn-ui@latest add sheet   
+
+npx prisma migrate reset 
+npx prisma db push
+npx prisma generate
+npx prisma studio
+
+4:30
